@@ -4,7 +4,7 @@ import random
 import string
 
 from palabras import palabras
-from ahorcado_diagramas import vidas_diccionario_visual
+from diagramas import vidas_diccionario_visual
 
 
 #   Función que selecciona una palabra al azar de la lista de palabras válidas. Si la palabra tiene un espacio en blanco o un guión, busca una nueva palabra. Si realmente es válida recgemos su valor en letras mayúsculas.
